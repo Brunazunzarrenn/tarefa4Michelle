@@ -67,3 +67,7 @@ function verifyJWT(req, res, next){
 var server = http.createServer(app); 
 server.listen(3000);
 console.log("Servidor escutando na porta 3000...")
+
+
+//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
+//322273307737-pssjkq801ogtks945pb083v2d0n6c6m2.apps.googleusercontent.com
